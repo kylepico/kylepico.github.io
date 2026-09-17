@@ -156,7 +156,7 @@ main {
 
   .dooty {
     display:block;
-    background-color:#f5f5dc;
+    background-color:#C2EAC2;
     height:28em;
   }
 
@@ -204,7 +204,7 @@ main {
   /* background: #fcc; */
   flex: 1.15;
   /* background-color: #C2EAC2; */
-  background-color: #f5f5dc;
+  background-color: #C2EAC2;
 }
 
 .left {
@@ -269,7 +269,7 @@ main {
 
 #mySidenav a:hover {
   background-color: #373737;
-  color: #f5f5dc;
+  color: #C2EAC2;
   text-shadow: 0.15px 0.15px #E6F5DC;
 }
 
