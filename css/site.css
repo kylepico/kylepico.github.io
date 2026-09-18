@@ -203,8 +203,8 @@ main {
 .boxing>.left {
   /* background: #fcc; */
   flex: 1.15;
-  /* background-color: #C2EAC2; */
-  background-color: #C2EAC2;
+  /* background-color: #f5fdc; */
+  background-color: #f5f5dc;
 }
 
 .left {
@@ -269,7 +269,7 @@ main {
 
 #mySidenav a:hover {
   background-color: #373737;
-  color: #C2EAC2;
+  color: #f5f5dc;
   text-shadow: 0.15px 0.15px #E6F5DC;
 }
 
